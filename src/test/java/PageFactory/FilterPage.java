@@ -34,6 +34,9 @@ public class FilterPage {
 		        public void clickFerrariFilter() {
 		           ferrariFilter.click();
 		        }
+		        
+		        public void clickFerrariFilte1r() {
+			           ferrariFilter.click();
 		    }
 
 
